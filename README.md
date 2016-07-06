@@ -1,4 +1,4 @@
-# COSC2P03
+# COSC2P03 Advanced Data Structures 
 
 Assignment 1: LISP
 
